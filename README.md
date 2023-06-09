@@ -1,20 +1,4 @@
 ##    Industrial-copper-modeling 
-
-# Approach:
-
-1 - skewness and outliers in the dataset.
-
-2 - Transform the data into a suitable format and perform any necessary cleaning and pre-processing steps.
-
-
-3 - ML Regression model which predicts continuous variable ‘Selling_Price’.
-
-
-4 - ML Classification model which predicts Status: WON or LOST.
-
-
-5 - Creating a streamlit page where you can insert each column value and you will get the Selling_Price predicted value or Status(Won/Lost)
-
 # Libraries:
 
    import pandas as pd
@@ -43,12 +27,27 @@
    
    from sklearn.metrics import  classification_report, roc_curve, auc
    
-#  To ignore warnings
-   import warnings
+# Approach:
+
+1 - skewness and outliers in the dataset.
+
+2 - Transform the data into a suitable format and perform any necessary cleaning and pre-processing steps.
+
+
+3 - ML Regression model which predicts continuous variable ‘Selling_Price’.
+
+
+4 - ML Classification model which predicts Status: WON or LOST.
+
+
+5 - Creating a streamlit page where you can insert each column value and you will get the Selling_Price predicted value or Status(Won/Lost)
    
+#  To ignore warnings
+
+   import warnings
    warnings.filterwarnings("ignore")
    
- # Result
+# Result
 ![image](https://github.com/Vijayv451/Industrial-copper-modeling/assets/125632137/c4921ae2-1aee-4c15-bd8b-3df32c2c2651)
 ![image](https://github.com/Vijayv451/Industrial-copper-modeling/assets/125632137/1657bd56-56f9-426c-b7cc-3034f9e06246)
 ![image](https://github.com/Vijayv451/Industrial-copper-modeling/assets/125632137/ce934f6f-c700-401a-933c-4585d9380eae)
