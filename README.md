@@ -17,7 +17,6 @@
 
 # Libraries:
 
-# library
    import pandas as pd
    
    import numpy as np
@@ -49,5 +48,13 @@
    
    warnings.filterwarnings("ignore")
    
- 
+ # Result
+![image](https://github.com/Vijayv451/Industrial-copper-modeling/assets/125632137/c4921ae2-1aee-4c15-bd8b-3df32c2c2651)
+![image](https://github.com/Vijayv451/Industrial-copper-modeling/assets/125632137/1657bd56-56f9-426c-b7cc-3034f9e06246)
+![image](https://github.com/Vijayv451/Industrial-copper-modeling/assets/125632137/ce934f6f-c700-401a-933c-4585d9380eae)
+![image](https://github.com/Vijayv451/Industrial-copper-modeling/assets/125632137/55fc7a0a-677e-433a-8247-e7ded7bfa834)
+![image](https://github.com/Vijayv451/Industrial-copper-modeling/assets/125632137/53ae8256-d978-4d75-8f40-b68957d18567)
+![image](https://github.com/Vijayv451/Industrial-copper-modeling/assets/125632137/37c254d5-044d-4c94-93d5-b6494728c2d2)
+![image](https://github.com/Vijayv451/Industrial-copper-modeling/assets/125632137/fe796215-67d1-45e0-96cb-5ad16aab35ad)
+
    
